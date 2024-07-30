@@ -5,3 +5,5 @@ The study explores the application of a deep-learning (DL) model to predict the 
 The folder Compiled_dataset contains all the original files used to compile our dataset, as well as the resulting compiled dataset (our_compiled_dataset.csv). A jupyter notebook reporting the procedure followed to compile our dataset starting from the original files is also provided inside this folder. The folder Datasets contains all the other datasets used for the analyses performed in our study.
 
 The file smiles245_substructures_r.csv contains the substructures obtained from the model interpretability analysis.
+
+The .yml files are the conda environments used to conduct the work.
