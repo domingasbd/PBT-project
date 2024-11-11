@@ -1,0 +1,63 @@
+Fold 0
+Warning: SMILES string in test could not be found in data file, and likely came from a secondary data file. The pickle file of split indices can only indicate indices for a single file and will not be generated.
+Model 0 best validation auc = 0.994541 on epoch 26
+Model 0 test auc = 0.976577
+Ensemble test auc = 0.976577
+Fold 1
+Warning: SMILES string in test could not be found in data file, and likely came from a secondary data file. The pickle file of split indices can only indicate indices for a single file and will not be generated.
+Model 0 best validation auc = 0.992407 on epoch 24
+Model 0 test auc = 0.974845
+Ensemble test auc = 0.974845
+Fold 2
+Warning: SMILES string in test could not be found in data file, and likely came from a secondary data file. The pickle file of split indices can only indicate indices for a single file and will not be generated.
+Model 0 best validation auc = 0.995023 on epoch 23
+Model 0 test auc = 0.976835
+Ensemble test auc = 0.976835
+Fold 3
+Warning: SMILES string in test could not be found in data file, and likely came from a secondary data file. The pickle file of split indices can only indicate indices for a single file and will not be generated.
+Model 0 best validation auc = 0.994932 on epoch 20
+Model 0 test auc = 0.977901
+Ensemble test auc = 0.977901
+Fold 4
+Warning: SMILES string in test could not be found in data file, and likely came from a secondary data file. The pickle file of split indices can only indicate indices for a single file and will not be generated.
+Model 0 best validation auc = 0.995850 on epoch 24
+Model 0 test auc = 0.977367
+Ensemble test auc = 0.977367
+Fold 5
+Warning: SMILES string in test could not be found in data file, and likely came from a secondary data file. The pickle file of split indices can only indicate indices for a single file and will not be generated.
+Model 0 best validation auc = 0.995681 on epoch 15
+Model 0 test auc = 0.977352
+Ensemble test auc = 0.977352
+Fold 6
+Warning: SMILES string in test could not be found in data file, and likely came from a secondary data file. The pickle file of split indices can only indicate indices for a single file and will not be generated.
+Model 0 best validation auc = 0.993813 on epoch 18
+Model 0 test auc = 0.976228
+Ensemble test auc = 0.976228
+Fold 7
+Warning: SMILES string in test could not be found in data file, and likely came from a secondary data file. The pickle file of split indices can only indicate indices for a single file and will not be generated.
+Model 0 best validation auc = 0.996392 on epoch 19
+Model 0 test auc = 0.976730
+Ensemble test auc = 0.976730
+Fold 8
+Warning: SMILES string in test could not be found in data file, and likely came from a secondary data file. The pickle file of split indices can only indicate indices for a single file and will not be generated.
+Model 0 best validation auc = 0.980369 on epoch 21
+Model 0 test auc = 0.974281
+Ensemble test auc = 0.974281
+Fold 9
+Warning: SMILES string in test could not be found in data file, and likely came from a secondary data file. The pickle file of split indices can only indicate indices for a single file and will not be generated.
+Model 0 best validation auc = 0.992136 on epoch 11
+Model 0 test auc = 0.974652
+Ensemble test auc = 0.974652
+10-fold cross validation
+	Seed 0 ==> test auc = 0.976577
+	Seed 1 ==> test auc = 0.974845
+	Seed 2 ==> test auc = 0.976835
+	Seed 3 ==> test auc = 0.977901
+	Seed 4 ==> test auc = 0.977367
+	Seed 5 ==> test auc = 0.977352
+	Seed 6 ==> test auc = 0.976228
+	Seed 7 ==> test auc = 0.976730
+	Seed 8 ==> test auc = 0.974281
+	Seed 9 ==> test auc = 0.974652
+Overall test auc = 0.976277 +/- 0.001194
+Elapsed time = 0:35:08

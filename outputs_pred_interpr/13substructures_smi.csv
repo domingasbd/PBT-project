@@ -1,0 +1,14 @@
+SMILES
+Brc1cccc(Br)c1
+FC(F)C(F)F
+ClC1:C:C:C:C(Cl):C:1
+Brc1ccccc1Br
+CC12CCCC1C1CCCCC1CC2
+CC12CCCCC1=CCC1C3CCCC3CCC12
+c1cc2ccc3cccc4ccc(c1)c2c34
+c1ccc2cc3c(ccc4ccccc43)cc2c1
+c1ccc2c(c1)Cc1ccccc1S2
+ClC(Cl)C(Cl)Cl
+Clc1ccc(Cl)c(Br)c1
+Ic1cccc(I)c1I
+CC1:N:C:N:C(C(Cl)(Cl)Cl):N:1
