@@ -1,7 +1,7 @@
 name: main_DE
 channels:
-  - anaconda
   - conda-forge/label/cf201901
+  - anaconda
   - conda-forge
   - defaults
 dependencies:
@@ -112,7 +112,7 @@ dependencies:
   - pexpect=4.8.0=pyh1a96a4e_2
   - pickleshare=0.7.5=py_1003
   - pillow=7.1.1=py37h718be6c_0
-  - pip
+  - pip=20.0.2=py_2
   - pixman=0.38.0=h516909a_1003
   - prometheus_client=0.7.1=py_0
   - prompt-toolkit=3.0.5=py_1
@@ -183,6 +183,7 @@ dependencies:
       - charset-normalizer==3.0.1
       - chembl-structure-pipeline==1.2.0
       - chembl-webresource-client==0.10.8
+      - descriptastorus==2.7.0.3
       - easydict==1.10
       - et-xmlfile==1.1.0
       - itsdangerous==2.1.2
@@ -192,6 +193,7 @@ dependencies:
       - openpyxl==3.1.2
       - packaging==23.2
       - pandas==1.3.5
+      - pandas-flavor==0.6.0
       - pubchempy==1.0.4
       - pyqt5-sip==4.19.18
       - pyqtchart==5.12
@@ -203,5 +205,7 @@ dependencies:
       - scikit-learn==1.0.2
       - setuptools==67.1.0
       - threadpoolctl==3.1.0
+      - typing-extensions==4.7.1
       - url-normalize==1.4.3
-prefix: /common/users/devan/anaconda3/envs/ReinventCommunity
+      - xarray==0.20.2
+prefix: /common/users/devan/anaconda3/envs/main_DE
