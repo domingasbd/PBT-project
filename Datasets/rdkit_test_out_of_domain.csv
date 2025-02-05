@@ -1,0 +1,7 @@
+SMILES,PBT_label
+Cc1ccc(N2C(=O)N(c3ccc(C)c(NC(=O)Oc4c(C)cc(N=O)cc4C)c3)C2=O)cc1NC(=O)Oc1c(C)cc(N=O)cc1C,1
+CC1(C)CC(OC(=O)N(CCCCCCN(C(=O)OC2CC(C)(C)NC(C)(C)C2)C2CC(C)(C)NC(C)(C)C2)C2CC(C)(C)NC(C)(C)C2)CC(C)(C)N1,1
+CC1CCCC(=O)N1C(=O)NC1CC(C)(C)CC(C)(CNC(=O)OCCOCCOC(=O)NCC2(C)CC(NC(=O)N3C(=O)CCCC3C)CC(C)(C)C2)C1,1
+Nc1cc(S(=O)(=O)O)c(Nc2ccc3c(c2S(=O)(=O)O)Oc2c(Cl)c4c(c(Cl)c2=N3)Oc2c(ccc(Nc3cc(S(=O)(=O)O)c(N)cc3S(=O)(=O)O)c2S(=O)(=O)O)N=4)cc1S(=O)(=O)O,0
+Nc1ccc(Nc2ccc3nc4ccc(Nc5ccc6nc7ccc(Nc8ccc9nc%10ccc(Nc%11ccccc%11)cc%10[n+](-c%10ccccc%10)c9c8)cc7[n+](-c7ccccc7)c6c5)cc4[n+](-c4ccccc4)c3c2)cc1,0
+CCCCCCCCCCCCCCCCCC(=O)OC(COC(=O)CCCCCCCCCCCCCCC)COP(=O)(O)OCC[N+](C)(C)C,0
