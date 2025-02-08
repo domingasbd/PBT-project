@@ -1,4 +1,4 @@
-SMILES,PBT_label
+standardized_smiles,PBT_label
 Cc1ccc(N2C(=O)N(c3ccc(C)c(NC(=O)Oc4c(C)cc(N=O)cc4C)c3)C2=O)cc1NC(=O)Oc1c(C)cc(N=O)cc1C,1
 CC1(C)CC(OC(=O)N(CCCCCCN(C(=O)OC2CC(C)(C)NC(C)(C)C2)C2CC(C)(C)NC(C)(C)C2)C2CC(C)(C)NC(C)(C)C2)CC(C)(C)N1,1
 CC1CCCC(=O)N1C(=O)NC1CC(C)(C)CC(C)(CNC(=O)OCCOCCOC(=O)NCC2(C)CC(NC(=O)N3C(=O)CCCC3C)CC(C)(C)C2)C1,1
