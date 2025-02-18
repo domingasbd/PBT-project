@@ -5,9 +5,12 @@ The study explores the application of a deep-learning (DL) model to predict the 
 
 The repository is organized as follow: 
  - Notebooks 
-     - ***workflow_project-Figures_generation.ipynb*** reports  the project workflow and the images generated in the paper **"Application of Deep Learning to Predict Persistence, Bioaccumulation and Toxicity of Pharmaceuticals"**. It also contains the generation of the substructures believed to be responsible for PBT behaviour obtained from the Deep Learning (DL) prediction model. 
+     - ***Dataset_compilation_and_Pre-processing*** reports the section Filtering and Pre-processing procedure  in the paper **"Application of Deep Learning to Predict Persistence, Bioaccumulation and Toxicity of Pharmaceuticals"**. It describes the dataset compilation used to train the DL-based model and the standardized procedure adopted to clean and filter it. 
+     -***Dataset partitioning***illustates the section Dataset partitioning in the same  paper describing the splitting strategies adopter to train the DL-based model and their statistical validation with Kolmogorov-Smirnov (KS) test. 
      - ***Training_and_predicting_splitting_strategies.ipynb*** contains the entire training and prediction process of the DL-based models for the three different splitting strategies.
      - ***noaddfeatures_training_predicting.ipynb*** contains the training and prediction process without using the rdkit additional features of the DL-based models for the three different splitting strategies.
+     -***Applicability_Domain_Analysis*** describes t-Distributed Stochastic Neighbour Embedding (t-SNE) plots in Figure 2 of the main paper and the Applicability Domain (AD) of the Dl-model.
+     -***Interpretability_analysis*** illustates the section Interpretability Analysis Application to Pharmaceuticals in the same paper describing the extraction of PBT-relevant substructures through chemprop built-in interpret function.
      - ***How_to_predict_PBT_with_your_dataset.ipynb*** provides guidance on how to make predictions of Persistence, Bioaccumulation and Toxicity (PBT) using the DL-based model proposed on your own dataset. 
  - **Datasets/**: contains datasets used in this study.
  - **Compiled_dataset/**: contains all the datasets collected from different sources in order to build our compiled dataset.
@@ -15,7 +18,7 @@ The repository is organized as follow:
  - **kfold_outputs/**: contains all the outputs after training and predicting DL-based cross-validation models for the three splitting strategies.
  - **0fold_outputs/**: contains all the outputs after training and predicting DL-based models on all the data for the three splitting strategies. 
  - **outputs_preds_interpr/**: contains the final prediction output of the compiled dataset together with the interpretation output and PBT-related substructures obtained.
- - **images/**: contains the images that were generated through the notebook "workflow_project-Figures_generation.ipynb".
+ - **images/**: contains the images that were generated through the notebooks.
 
 The .csv files are the files generated in the notebooks.
 
