@@ -6,7 +6,7 @@ The study explores the application of a deep-learning (DL) model to predict the 
 The repository is organized as follow: 
  - Notebooks 
      - ***Dataset_compilation_and_Pre-processing*** reports the section Filtering and Pre-processing procedure  in the paper **"Application of Deep Learning to Predict Persistence, Bioaccumulation and Toxicity of Pharmaceuticals"**. It describes the dataset compilation used to train the DL-based model and the standardized procedure adopted to clean and filter it. 
-     - ***Dataset partitioning***illustates the section Dataset partitioning in the same  paper describing the splitting strategies adopter to train the DL-based model and their statistical validation with Kolmogorov-Smirnov (KS) test. 
+     - ***Dataset partitioning*** illustates the section Dataset partitioning in the same  paper describing the splitting strategies adopter to train the DL-based model and their statistical validation with Kolmogorov-Smirnov (KS) test. 
      - ***Training_and_predicting_splitting_strategies.ipynb*** contains the entire training and prediction process of the DL-based models for the three different splitting strategies.
      - ***noaddfeatures_training_predicting.ipynb*** contains the training and prediction process without using the rdkit additional features of the DL-based models for the three different splitting strategies.
      - ***Applicability_Domain_Analysis*** describes t-Distributed Stochastic Neighbour Embedding (t-SNE) plots in Figure 2 of the main paper and the Applicability Domain (AD) of the DL-model.
