@@ -12,10 +12,11 @@ The repository is organized as follow:
      - ***Applicability_Domain_Analysis*** describes t-Distributed Stochastic Neighbour Embedding (t-SNE) plots in Figure 2 of the main paper and the Applicability Domain (AD) of the DL-model.
      - ***Interpretability_analysis*** illustates the section Interpretability Analysis Application to Pharmaceuticals in the same paper describing the extraction of PBT-relevant substructures through chemprop built-in interpret function.
      - ***How_to_predict_PBT_with_your_dataset.ipynb*** provides guidance on how to make predictions of Persistence, Bioaccumulation and Toxicity (PBT) using the DL-based model proposed on your own dataset.
- * **Python Files:**
-   - 'applicability_domain.py': Contains functions for analyzing the applicability domain using PCA and Mahalanobis distance
-   - 'chem_utils.py': Contains utility function for chemical structure processing
+ - **Python Files:**
+   - `applicability_domain.py`: Contains functions for analyzing the applicability domain using PCA and Mahalanobis distance
+   - `chem_utils.py`: Contains utility function for chemical structure processing
    - `GP_QSPR.py`: Contains function for GP-QSPR analysis
+
  - **Datasets/**: contains datasets used in this study.
  - **Compiled_dataset/**: contains all the datasets collected from different sources in order to build our compiled dataset.
  - **Splitting_strategy_datasets/**: contains training and test sets obtained from our compiled dataset by splitting it according to three different strategies in order to train and test the DL-based models.
