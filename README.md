@@ -3,7 +3,7 @@ This repository contains all the notebooks, code, and data needed to reproduce t
 \
 **"Application of Deep Learning to Predict Persistence, Bioaccumulation and Toxicity of Pharmaceuticals"**  \
 *Journal of Chemical Information and Modeling (ACS Publications), 2025*  \
-*DOI: [https://doi.org/10.1021/acs.jcim.4c02293]*\
+*DOI: [https://doi.org/10.1021/acs.jcim.4c02293]*
 
 The study explores the application of a deep-learning (DL) model to predict the Persistence, Bioaccumulation and Toxicity (PBT) of pharmaceuticals. We aim to discover substructures within molecules that are linked to PBT characteristics. By incorporating these findings into early-stage drug discovery, we can design drugs with reduced environmental impact.
 
