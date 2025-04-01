@@ -3,10 +3,8 @@ This repository contains all the notebooks, code, and data needed to reproduce t
 \
 **"Application of Deep Learning to Predict Persistence, Bioaccumulation and Toxicity of Pharmaceuticals"**  \
 *Journal of Chemical Information and Modeling (ACS Publications), 2025*  \
-*DOI: [DOI will be added upon publication]*\
-' README.md
+*DOI: [https://doi.org/10.1021/acs.jcim.4c02293]*\
 
-This repository contains all the notebooks, code, and data needed to reproduce the results from the work **"Application of Deep Learning to Predict Persistence, Bioaccumulation and Toxicity of Pharmaceuticals"**. The objective of this project is to build a deep learning model using Chemprop to predict PBT properties of various compounds.
 The study explores the application of a deep-learning (DL) model to predict the Persistence, Bioaccumulation and Toxicity (PBT) of pharmaceuticals. We aim to discover substructures within molecules that are linked to PBT characteristics. By incorporating these findings into early-stage drug discovery, we can design drugs with reduced environmental impact.
 
 
